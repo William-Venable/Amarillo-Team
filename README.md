@@ -1,4 +1,4 @@
-# Forecasting Financial Performance of Small Buisnesses
+# Forecasting Financial Performance of Small Business
 
 ## Project Overview
 The purpose of this project is to determine the financial viability of a small business. We have an understanding that small businesses go to accounting firms with fears about going under, however, by the time the firm realizes that the company is flat they’ll notify the business that it’s too late. The intent of this project, is to be able to use machine learning for any small business with a simple exchange of data, our main focus will be LB & Sons with a potential to expand the data model to other small business entities. 

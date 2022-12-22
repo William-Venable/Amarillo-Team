@@ -10,3 +10,6 @@ Working with Jerry Barron, Vice-President of LB & Sons, he’s provided dataset 
 
 ## Website
 Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
+
+## Resources
+* https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=LB_Forecast_Cash.csv

@@ -8,4 +8,4 @@ Working with Jerry Barron, Vice-President of LB & Sons, he’s provided dataset 
 3.	Use the data to forecast, future of the business
 
 ## Website
-To learn more about the company visit `[LB & Sons](https://lbsons.com/)`
+To learn more about the company visit [LB & Sons](https://lbsons.com/)

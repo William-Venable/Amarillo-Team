@@ -14,6 +14,6 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 ## Resources
 * [LB_Forecast_Cash.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=LB_Forecast_Cash.csv)
 * [Monthly_L.B+Landscaping+Inc_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=Monthly_L.B.%2BLandscaping%2BInc_Sales.csv)
-[* LB_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=5%20days%20ago-,LB_Sales.csv,-Add%20files%20via)
-[* LB_Forecast_Rec_1.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=LB_Forecast_Rec_1.csv)
+* [LB_Forecast_Rec_1.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=LB_Forecast_Rec_1.csv)
+* [LB_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/main/LB_Sales.csv)
 

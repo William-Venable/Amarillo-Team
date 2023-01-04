@@ -1,3 +1,6 @@
+![LB   Sons](https://user-images.githubusercontent.com/109354592/210472071-35b56a5d-abb1-4e44-909c-656b69c4566c.png)
+
+
 # Forecasting Financial Performance of Small Business
 
 ## Project Overview

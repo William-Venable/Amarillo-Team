@@ -1,4 +1,4 @@
-![LB   Sons](https://user-images.githubusercontent.com/109354592/210472071-35b56a5d-abb1-4e44-909c-656b69c4566c.png)
+![LB   Sons_2](https://user-images.githubusercontent.com/109354592/210472331-776fcdfd-617b-4fc3-98a9-8113439ff8b8.png)
 
 
 # Forecasting Financial Performance of Small Business
@@ -9,7 +9,7 @@ The purpose of this project is to determine the financial viability of a small b
 Jerry Barron, Vice-President of LB & Sons, has provided a dataset to help determine:
 1.	Future financials of the business
 2.	Plateau date, if any, of the business
-3.	Forecasted uture of the business
+3.	Forecasted future of the business
 
 ## Website
 Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
@@ -20,3 +20,12 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 * [LB_Forecast_Rec_1.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=LB_Forecast_Rec_1.csv)
 * [LB_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/main/LB_Sales.csv)
 
+## Technologies Used
+- This is where we'll list which technologies we used to gather the information such as Jupyter Notebook, Tableau, Machine Learning, etc. 
+
+## Database
+- We can refer back to the csv files provided.
+
+## Machine Learning Model
+
+<ins>text<Question we would like to answer with our machine learning model

@@ -17,7 +17,7 @@ Jerry Barron, Vice-President of LB & Sons, has provided a dataset to help determ
 ## Website
 Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
   
-       ![LB   Sons_1](https://user-images.githubusercontent.com/109354592/210474611-73d80216-56cf-4942-b1e2-e016d5ea19d7.png)
+![LB   Sons_1](https://user-images.githubusercontent.com/109354592/210474611-73d80216-56cf-4942-b1e2-e016d5ea19d7.png)
 
 ## Resources
 * [LB_Forecast_Cash.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=LB_Forecast_Cash.csv)

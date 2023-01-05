@@ -26,7 +26,10 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 * [LB_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/main/LB_Sales.csv)
 
 ## Technologies Used
-- `This is where we'll list which technologies we used to gather the information such as Jupyter Notebook, Tableau, Machine Learning, etc.` 
+* [Linear Regression Beginners Guide.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/tree/main/Resources1/Resources/ipynb#:~:text=11%20hours%20ago-,Linear%20Regression%20Beginners%20Guide.ipynb,-Add%20files%20via)
+* [Linear Regression.ipynb ](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/tree/main/Resources1/Resources/ipynb#:~:text=Linear%20Regression.ipynb) 
+* [Cash Forecast Linear Regression Best R2 score.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/tree/main/Resources1/Resources/ipynb#:~:text=Cash%20Forecast%20Linear%20Regression%20Best%20R2%20score.ipynb)
+* [Cash Estimate.ipynb  ](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/tree/main/Resources1/Resources/ipynb#:~:text=.%E2%80%8A.-,Cash%20Estimate.ipynb,-resources)
 
 ## Database
 - `We can refer back to the csv files provided.`
@@ -36,6 +39,7 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 Facebook Prophet - https://facebook.github.io/prophet/
 
 <ins>What is Facebook Prophet?
+  
 Prophet is a forecasting procedure implemented in R & Python. Prophet is fast & provides automated forecasts that can be tuned by data scientist & analysts.
   
 It shows a time series data based on an addictive model where non-linear trends are fit with yearly, weekly, and daily seasionality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. 

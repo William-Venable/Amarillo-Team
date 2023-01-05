@@ -33,7 +33,14 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 
 ## Machine Learning Model
 
-https://facebook.github.io/prophet/
+Facebook Prophet - https://facebook.github.io/prophet/
+
+<ins>What's Facebook Prophet?
+* Prophet is a forecasting procedure implemented in R & Python. Prophet is fast & provides automated forecasts that can be tuned by data scientist & analysts.
+  
+  It shows a time series data based on an addictive model where non-linear trends are fit with yearly, weekly, and daily seasionality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. 
+  
+  Prophet is open source software released by Facebook’s Core Data Science team. It is available for download on CRAN and PyPI.  
   
 ## LB & Sons Analysis
 

@@ -32,7 +32,8 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 - `We can refer back to the csv files provided.`
 
 ## Machine Learning Model
-- `Discuss how Machine Learning will be used.`
+
+https://facebook.github.io/prophet/
   
 ## LB & Sons Analysis
 

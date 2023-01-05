@@ -34,8 +34,9 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 ## Machine Learning Model
 - `Discuss how Machine Learning will be used.`
   
-## Way Forward
+## LB & Sons Analysis
 
+<ins>Description and Analysis of our data looking over LB& Sons
 <ins>What are some possible improvements we could make?
 - `How can our model be improved on?`
   

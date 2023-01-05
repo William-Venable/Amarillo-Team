@@ -37,6 +37,7 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 ## LB & Sons Analysis
 
 <ins>Description and Analysis of our data looking over LB& Sons
+  
 <ins>What are some possible improvements we could make?
 - `How can our model be improved on?`
   

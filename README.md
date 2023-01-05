@@ -36,7 +36,7 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 
 ## Machine Learning Model
 
-Facebook Prophet - https://facebook.github.io/prophet/
+**Facebook Prophet** - https://facebook.github.io/prophet/
 
 <ins>What is Facebook Prophet?
   

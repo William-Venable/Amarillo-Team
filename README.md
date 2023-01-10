@@ -26,7 +26,7 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 * [LB_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/main/LB_Sales.csv)
 
 ## Technologies Used
-* [[Linear Regression Beginners Guide.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/tree/main/Resources1/Resources/ipynb#:~:text=11%20hours%20ago-,Linear%20Regression%20Beginners%20Guide.ipynb,-Add%20files%20via)](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/8647947c069d2f8f686af907b8060808b34e75b8/Resources1/Resources/ipynb/Linear%20Regression%20Beginners%20Guide.ipynb)
+* [Linear Regression Beginners Guide.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/8647947c069d2f8f686af907b8060808b34e75b8/Resources1/Resources/ipynb/Linear%20Regression%20Beginners%20Guide.ipynb)
 * [Linear Regression.ipynb ](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/tree/main/Resources1/Resources/ipynb#:~:text=Linear%20Regression.ipynb) 
 * [Cash Forecast Linear Regression Best R2 score.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/tree/main/Resources1/Resources/ipynb#:~:text=Cash%20Forecast%20Linear%20Regression%20Best%20R2%20score.ipynb)
 * [Cash Estimate.ipynb  ](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/tree/main/Resources1/Resources/ipynb#:~:text=.%E2%80%8A.-,Cash%20Estimate.ipynb,-resources)

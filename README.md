@@ -20,10 +20,10 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 ![LB   Sons_1](https://user-images.githubusercontent.com/109354592/210474611-73d80216-56cf-4942-b1e2-e016d5ea19d7.png)
 
 ## Resources
-* [LB_Forecast_Cash.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=LB_Forecast_Cash.csv)
-* [Monthly_L.B+Landscaping+Inc_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=Monthly_L.B.%2BLandscaping%2BInc_Sales.csv)
-* [LB_Forecast_Rec_1.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses#:~:text=LB_Forecast_Rec_1.csv)
-* [LB_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/main/LB_Sales.csv)
+* [LB_Forecast_Cash.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/868a1601c7760b9ab84af13c4cfac5e3cb98570e/Resources1/Resources/csv/LB_Forecast_Cash.csv)
+* [LB_Forecast_Cash_1.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/868a1601c7760b9ab84af13c4cfac5e3cb98570e/Resources1/Resources/csv/LB_Forecast_Cash_1.csv)
+* [LB_Forecast_Rec_1.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/868a1601c7760b9ab84af13c4cfac5e3cb98570e/Resources1/Resources/csv/LB_Forecast_Rec_1.csv)
+* [LB_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/868a1601c7760b9ab84af13c4cfac5e3cb98570e/Resources1/Resources/csv/LB_Sales.csv)
 
 ## Technologies Used
 * [Linear Regression Beginners Guide.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/8647947c069d2f8f686af907b8060808b34e75b8/Resources1/Resources/ipynb/Linear%20Regression%20Beginners%20Guide.ipynb)

@@ -36,12 +36,23 @@ Using the years of data, spanning from 2021-2022, within the CSV files (Cash Flo
 We will be breaking down each of the graphs/tables within our [Tableu file](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/main/Financial_Perf_Dashboard/Financial_Performance.twbx) in the points below:
   - Forecast and Receivable
     - We have two main bars, Forcasted Receivables and Receivables. The forcasted receivables is the total sum of total forcasted receivables over the past two years within the CSV files, as well as the receivables being the sum of total receivables within the files.
+   
+ ![Forecast   Receivables](https://user-images.githubusercontent.com/109354592/211960376-82bde994-1007-4457-a8da-3ece2276474e.png)
+    
   - Forcast and Receivable by Week
     - This table is just our previous Forecast and Receivable table but broken down by week. Anywhere that there is a null for the dates is a week that LB & Sons did not get any receivables.
+    
+ ![Forecast   Reveivables by Week](https://user-images.githubusercontent.com/109354592/211960418-e2e86797-f461-48f1-9bfe-47cf006c0d1f.png)
+
   - Sales by Week
     - This graph is a depiction of the total number of sales within each month over the past two years. We can see that during the Spring (April) going into the Summer (June), LB & Sons received the most amount of sales.
+    
+ ![Sales by Week](https://user-images.githubusercontent.com/109354592/211960500-91fc3be3-a2a5-4712-9658-7a54a9c8f400.png)
+
   - Forecasted Cash and Receivable
     - Within the graph, we have two lines, our Forecasted Cash (Blue line) and Actual Receivables (Orange Line). This clearly depicts a breakdown of the total amount of revenue received in 2022.
+    
+![Forcasted Cash   Receivables](https://user-images.githubusercontent.com/109354592/211960557-b18c7676-829c-4f93-8760-5087550bd7e2.png)
 
 ## Machine Learning Model
 

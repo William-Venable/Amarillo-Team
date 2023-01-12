@@ -31,13 +31,17 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 * [Cash Estimate.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/9bdf2eca32dd13c20cf3a1339dd08bdf7fadde42/Resources1/Resources/ipynb/Cash%20Estimate.ipynb)
 
 ## Database
-Using the years of data, spanning from 2021-2022, within the CSV files (Cash Flow, Recievables, and Sales) provided by Jerry from LB & Sons, we implimented the files into Tableu. We created four main graphs/tables to depict the Forecasts and recievables of cash for LB & Sons.
+Using the years of data, spanning from 2021-2022, within the CSV files (Cash Flow, Receivables, and Sales) provided by Jerry from LB & Sons, we implimented the files into Tableu. We created four main graphs/tables to depict the Forecasts and recievables of cash for LB & Sons.
 
-
-
-We will be breaking down each of the graphs/tables above in the points below:
-  - Forecast and Recievable
-    - 
+We will be breaking down each of the graphs/tables within our [Tableu file](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/main/Financial_Perf_Dashboard/Financial_Performance.twbx) in the points below:
+  - Forecast and Receivable
+    - We have two main bars, Forcasted Receivables and Receivables. The forcasted receivables is the total sum of total forcasted receivables over the past two years within the CSV files, as well as the receivables being the sum of total receivables within the files.
+  - Forcast and Receivable by Week
+    - This table is just our previous Forecast and Receivable table but broken down by week. Anywhere that there is a null for the dates is a week that LB & Sons did not get any receivables.
+  - Sales by Week
+    - This graph is a depiction of the total number of sales within each month over the past two years. We can see that during the Spring (April) going into the Summer (June), LB & Sons received the most amount of sales.
+  - Forecasted Cash and Receivable
+    - Within the graph, we have two lines, our Forecasted Cash (Blue line) and Actual Receivables (Orange Line). This clearly depicts a breakdown of the total amount of revenue received in 2022.
 
 ## Machine Learning Model
 

@@ -33,11 +33,11 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 ## Database
 Using the years of data, spanning from 2021-2022, within the CSV files (Cash Flow, Recievables, and Sales) provided by Jerry from LB & Sons, we implimented the files into Tableu. We created four main graphs/tables to depict the Forecasts and recievables of cash for LB & Sons.
 
-![image](https://user-images.githubusercontent.com/110737061/211953566-da2ab369-e160-435f-b7db-6b67929c50ed.png)
+
 
 We will be breaking down each of the graphs/tables above in the points below:
-  - Forecast and Recievable (1)
-    - Looking at both the cash bars in the table, we can see the total amount of recievables which is $69.65 Million, and the total amount of cash which is $65.46 Million. Both of these bars are a sum of the total number of cash and recievables based off the past two years within the CSV files. 
+  - Forecast and Recievable
+    - 
 
 ## Machine Learning Model
 

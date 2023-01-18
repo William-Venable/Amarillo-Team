@@ -26,7 +26,8 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 
 ## Technologies Used
   To perform our analysis, we had to determine which machine learning tool we were going to use.  We referenced scikit learn (Choosing the right estimator), which pointed to linear regression as our best choice.  The dataset was less then 100,000 samples but more then 50 samples.
-  ![scikit learn](https://user-images.githubusercontent.com/108476566/213286645-0d8ea287-1e94-47c9-aadb-13e3c05ae8f0.png)
+ ![scikit learn](https://user-images.githubusercontent.com/108476566/213287819-2c7c09da-891a-4d22-9ba2-3ca8e4833882.png)
+
 
   
   We started out with Linear Regression on both Cash and Receivables.  

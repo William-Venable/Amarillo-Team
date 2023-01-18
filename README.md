@@ -36,6 +36,8 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 * [Decision Tree Classification.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/e817ee27dc31f6ca3e247a381255d286fbce7231/Resources1/Resources/ipynb/Decision%20Tree%20Classification%20LB.ipynb)
 * [Decision Tree for Regression.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/e817ee27dc31f6ca3e247a381255d286fbce7231/Resources1/Resources/ipynb/Decision%20Tree%20for%20Regression.ipynb)
 * [LB Cash Prophet.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/0c2a20e9f583adbc435f5e2ca552f18a9953e026/Resources1/Resources/ipynb/LB%20Cash%20Prophet.ipynb)
+* [LB Receivables Prophet.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/0c2a20e9f583adbc435f5e2ca552f18a9953e026/Resources1/Resources/ipynb/LB%20Receivables%20Prophet.ipynb)
+
 
 ## Database
 Using the years of data, spanning from 2021-2022, within the CSV files (Cash Flow, Receivables, and Sales) provided by Jerry from LB & Sons, we implimented the files into Tableu. We created four main graphs/tables to depict the Forecasts and recievables of cash for LB & Sons.

@@ -26,6 +26,8 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 
 ## Technologies Used
   To perform our analysis, we had to determine which machine learning tool we were going to use.  We referenced scikit learn (Choosing the right estimator), which pointed to linear regression as our best choice.
+  ![scikit learn](https://user-images.githubusercontent.com/108476566/213286645-0d8ea287-1e94-47c9-aadb-13e3c05ae8f0.png)
+
   
   We started out with Linear Regression on both Cash and Receivables.  
   We verified the accuracy of the model using the mean squared error.  We plotted the results and compared to actual numbers for accuracy.  Next, we looked at Exponential Smoothing and Simple Smoothing to see how acurate cash and receivables would be to actual numbers.  Then, we used Double Exponential Smoothing to arrive at results.  We tried to make predictions using ARIMA (another forecasting model).  Then we tried Decision Trees and KNN.  

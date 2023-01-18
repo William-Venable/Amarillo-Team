@@ -25,7 +25,7 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 * [LB_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/868a1601c7760b9ab84af13c4cfac5e3cb98570e/Resources1/Resources/csv/LB_Sales.csv)
 
 ## Technologies Used
-  To perform our analysis, we had to determine which machine learning tool we were going to use.  We referenced scikit learn (Choosing the right estimator), which pointed to linear regression as our best choice.
+  To perform our analysis, we had to determine which machine learning tool we were going to use.  We referenced scikit learn (Choosing the right estimator), which pointed to linear regression as our best choice.  The dataset was less then 100,000 samples but more then 50 samples.
   ![scikit learn](https://user-images.githubusercontent.com/108476566/213286645-0d8ea287-1e94-47c9-aadb-13e3c05ae8f0.png)
 
   

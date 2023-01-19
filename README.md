@@ -25,13 +25,22 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 * [LB_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/868a1601c7760b9ab84af13c4cfac5e3cb98570e/Resources1/Resources/csv/LB_Sales.csv)
 
 ## Technologies Used
-  To perform our analysis, we had to determine which machine learning tool we were going to use.  We referenced scikit learn (Choosing the right estimator), which pointed to linear regression as our best choice.  The dataset was less then 100,000 samples but more then 50 samples.
+  To perform our analysis, we had to determine which machine learning tool we were going to use.  We referenced scikit learn (Choosing the right estimator), which pointed to regression as our best choice.  The dataset was less then 100,000 samples but more then 50 samples.  Based on the cheat sheet below we decided to start with regression and expand to other models to experiment.
+  
  ![scikit learn](https://user-images.githubusercontent.com/108476566/213287819-2c7c09da-891a-4d22-9ba2-3ca8e4833882.png)
 
 
   
-  We started out with Linear Regression on both Cash and Receivables.  
-  We verified the accuracy of the model using the mean squared error.  We plotted the results and compared to actual numbers for accuracy.  Next, we looked at Exponential Smoothing and Simple Smoothing to see how acurate cash and receivables would be to actual numbers.  Then, we used Double Exponential Smoothing to arrive at results.  We tried to make predictions using ARIMA (another forecasting model).  Then we tried Decision Trees and KNN.  
+ ## Dependent and Independent Variables
+ Machine learning is based on the cross-analysis of dependent and independent variables.  The dependent variable (y) is the output we are wanting to predict and the independent variable(X) is an input that impacts the dependent variable(output).  The goal for the project was to find the independent variable(X) affect the dependent variable(y).
+ 
+ To predict financial stability, we used supervised learning analyzes.  We looked at Cash and Receivables.  
+ 
+ ##Linear Regression
+ We started out with Linear Regression on both Cash and Receivables.  
+  
+  
+      
     Finally, we located a time series mode, we had heard about and decided to give that a try.  We ended up using prophet (Time Series Model) and it was most accurate when compared to actual numbers.  Please see our work at Cash Estimate (Jupyter File), Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.
   
 * [Linear Regression Beginners Guide.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/8647947c069d2f8f686af907b8060808b34e75b8/Resources1/Resources/ipynb/Linear%20Regression%20Beginners%20Guide.ipynb)

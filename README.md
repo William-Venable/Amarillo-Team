@@ -104,7 +104,7 @@ We did a R2 comparison to see which model had the best R2 score.  Linear regress
 ![Predicted Receivables](https://user-images.githubusercontent.com/108476566/213493707-0027c8ea-619d-4ecc-af47-521066b979c1.png)
 
   
-  We looked at other machine models,  please see our work at Cash Estimate, Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.   We looked to a time series model called "Facebook Prophet".  See description below under Machine Model.
+  We looked at other machine models,  please see our work at Cash Estimate, Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.   Ultimately, we decided on a  time series model called "Facebook Prophet".  See description below under Machine Model.
   
   
 * [Linear Regression Beginners Guide.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/8647947c069d2f8f686af907b8060808b34e75b8/Resources1/Resources/ipynb/Linear%20Regression%20Beginners%20Guide.ipynb)

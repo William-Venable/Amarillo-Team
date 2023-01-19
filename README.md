@@ -38,11 +38,11 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
  
  ## Linear Regression
   
- We started out with Linear Regression on both Cash and Receivables.  
+ We started out with Linear Regression on both Cash and Receivables.  Receivables fuels and feeds Cash.  Once a job is performed, an invoice is established with the client and a receivable is created.  The receivable is what is owed to the company.  Receivables can be a positive but also a negative, thus the reason we wanted it as part of our analysis.  Receivables are only good if the company can collect them.  This is the real world.  Not something you learn in school.  In the real world, just because you perform a job doesn't mean your going to get paid for that job.  It is very important for a company to forecast receivables and ensure the company is collecting its money owed.  If a company is not able to collect its debts, Cash will decline at a rapid rate and could cause your company to go bankrupt.  Some of the tools used to collect receivables is the use of attornies, collection agencies, lien letters, lien enforcements.  A lien is when a company performs a job on a property that is not public and issues a mechanics lien against the property in order to collect its receivables.  This is very threatening but usually results in payment and sour relationship with the client.
   
   
       
-    Finally, we located a time series mode, we had heard about and decided to give that a try.  We ended up using prophet (Time Series Model) and it was most accurate when compared to actual numbers.  Please see our work at Cash Estimate (Jupyter File), Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.
+Finally, we located a time series mode, we had heard about and decided to give that a try.  We ended up using prophet (Time Series Model) and it was most accurate when compared to actual numbers.  Please see our work at Cash Estimate (Jupyter File), Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.
   
 * [Linear Regression Beginners Guide.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/8647947c069d2f8f686af907b8060808b34e75b8/Resources1/Resources/ipynb/Linear%20Regression%20Beginners%20Guide.ipynb)
 * [Linear Regression.ipynb ](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/9bdf2eca32dd13c20cf3a1339dd08bdf7fadde42/Resources1/Resources/ipynb/Linear%20Regression.ipynb)

@@ -92,7 +92,9 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
   
   We ran five machine learning algorithms to compare to the linear regression model to determine the best model to use.
   
-  
+![5 models](https://user-images.githubusercontent.com/108476566/213488988-ae523e9e-ed58-410e-bcd1-a7c9096088fd.png)
+![Five models cont](https://user-images.githubusercontent.com/108476566/213489652-730e1db8-f90c-4ed6-a362-cb45dd85a4b5.png)
+
   
   We looked at other machine models,  please see our work at Cash Estimate, Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.   We looked to a time series model called "Facebook Prophet".  See description below under Machine Model.
   

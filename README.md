@@ -45,6 +45,7 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
   To use this algorithm, we coded the linear regression model to predict cash based on receivables as the independent variable.  We added the correlation coefficient for the independent variable with the y-intercept to predict the value of the dependent variable(cash).
   
   First we imported our python libraries.
+  
   ![Python libraries](https://user-images.githubusercontent.com/108476566/213348415-7a1207b8-02bc-4eb8-b176-dde5b3e1f056.png)
 
   

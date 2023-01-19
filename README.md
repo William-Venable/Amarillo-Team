@@ -48,8 +48,47 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
   
   ![Python libraries](https://user-images.githubusercontent.com/108476566/213348415-7a1207b8-02bc-4eb8-b176-dde5b3e1f056.png)
 
+  Second, we imported the dataset.  Using the Pandas pd.read_csv, we loaded the CSV dataset into a dataframe and assign the dataframe as a variable called df using the equal operator.
   
-      
+  ![Import dataset](https://user-images.githubusercontent.com/108476566/213348879-6911bd20-98c7-4836-9719-fa40b183c317.png)
+
+  There where no variables to remove.  The data was already transformed into a numerical format in order for the algorithm to read the data.
+  
+  Next, we used the df.head() function to preview the dataframe.
+  
+  ![dfhead](https://user-images.githubusercontent.com/108476566/213349326-a0bad6f3-d77f-4d8e-a54d-94cd19f5cbf8.png)
+
+  To inspect the full extent of any missing values, we used the isnull().sum() function.
+  
+  ![isnull](https://user-images.githubusercontent.com/108476566/213349572-c3fee6ee-4aa0-4e04-87cf-3d7acdb28bc0.png)
+
+   There were no number of missing values.
+  
+  We used a heatmap to analyze the correlation(corr) between the variable combinations.  Heatmaps are useful for understanding relationships between variables.  The variables are structured as both columns and rows on a matrix, with individual values represented as colors on a heatmap.  There is a correlation between weeks, y(cash) and receivables.  The heat map shows color red intensity or brightness between these variables.  
+  
+  ![heatmap](https://user-images.githubusercontent.com/108476566/213349838-357fbe0b-920b-496a-936e-ec85b190d24c.png)
+
+  We inspected the shape of the dataset using df.shape.  We have 52 rows and 4 columns.
+  
+  ![dfshape](https://user-images.githubusercontent.com/108476566/213352396-8af56593-2082-4c59-b38f-be12700cf455.png)
+
+  Next, we set the X and y variables.  The X array contains the independent variables, and the y is the dependent variable that we are wanting to predict (cash). We sub-divided the data into training and test sets using a standard 70/30 split.  We used a random seed number of 10.
+  
+ ![XY variables](https://user-images.githubusercontent.com/108476566/213352992-cf2e667c-ace9-4076-bda8-fdd13edb81d4.png)
+ 
+  Next we set the algorithm using scikit-learn regression algorithm as a variable.  Then, we used fit to link the training data to the algorithm stored in the variable model.
+  
+  ![setalgorithm](https://user-images.githubusercontent.com/108476566/213353330-786d165e-886a-49d6-969c-a564ee38b86c.png)
+
+  We found the y-intercept and X coefficients.  
+  
+  ![coefficients](https://user-images.githubusercontent.com/108476566/213353625-f76f8181-2f29-4e6e-9766-872ddb3d60a8.png)
+
+  Next, we ran the prediction model.  We inputed the previous week receivables and week 53 as input features.  At the time, we were trying to predict week 53.  We ran the model.  The predicted value of cash is $1,255,673.62 with a mean absolute error is $95,863.  This means that on average, the model miscalculated the actual cash amount by approximately $95,863.
+  
+  ![PredictWeek53](https://user-images.githubusercontent.com/108476566/213354328-994a1a13-0b3f-49da-9b28-5d02d9d036bc.png)
+
+  
 Finally, we located a time series mode, we had heard about and decided to give that a try.  We ended up using prophet (Time Series Model) and it was most accurate when compared to actual numbers.  Please see our work at Cash Estimate (Jupyter File), Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.
   
 * [Linear Regression Beginners Guide.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/8647947c069d2f8f686af907b8060808b34e75b8/Resources1/Resources/ipynb/Linear%20Regression%20Beginners%20Guide.ipynb)

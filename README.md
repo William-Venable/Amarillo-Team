@@ -88,8 +88,8 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
   
   ![PredictWeek53](https://user-images.githubusercontent.com/108476566/213354328-994a1a13-0b3f-49da-9b28-5d02d9d036bc.png)
 
+  $95,863 dollars is alot to miscalculate cash, so we looked at other models to see if there was a better correlation.  We looked at other machine models,  please see our work at Cash Estimate, Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.   We looked to a time series model called "Facebook Prophet".  See description below under Machine Model.
   
-Finally, we located a time series mode, we had heard about and decided to give that a try.  We ended up using prophet (Time Series Model) and it was most accurate when compared to actual numbers.  Please see our work at Cash Estimate (Jupyter File), Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.
   
 * [Linear Regression Beginners Guide.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/8647947c069d2f8f686af907b8060808b34e75b8/Resources1/Resources/ipynb/Linear%20Regression%20Beginners%20Guide.ipynb)
 * [Linear Regression.ipynb ](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/9bdf2eca32dd13c20cf3a1339dd08bdf7fadde42/Resources1/Resources/ipynb/Linear%20Regression.ipynb)

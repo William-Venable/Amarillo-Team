@@ -36,7 +36,7 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
  
  To predict financial stability, we used supervised learning analyzes.  Our focus was on Cash and Receivables.  Cash is an important asset in the company as without substantial Cash it is very difficult to run a business.  The business needs cash to meet payroll demands, materials for current and future jobs, equipment repairs, supplier and operational expenses.  Without Cash, a company can quickly find themselves in large amounts of debt.  Construction companies are known to finance just about everything from payroll, to equipment, to the actual current job.  This is where a construction company can get into trouble.  Financing all your cash needs could make your company bankrupt very quickly.  Although, it is very possible to finance everything, it is not the way LB&Sons functions as a business.  LB&Sons follows the ideas of our grandparents, "If you dont have the money in hand as Cash, probably should not purchase".  Wether that is payroll or any other items.  Cash is King!
  
- ## Linear Regression
+ ## Linear Regression-Cash
   
  We started out with Linear Regression on both Cash and Receivables.  Receivables fuels and feeds Cash.  Once a job is performed, an invoice is established with the client and a receivable is created.  The receivable is what is owed to the company.  Receivables can be a positive but also a negative, thus the reason we wanted it as part of our analysis.  Receivables are only good if the company can collect them.  This is the real world.  Not something you learn in school.  In the real world, just because you perform a job doesn't mean your going to get paid for that job.  It is very important for a company to forecast receivables and ensure the company is collecting its money owed.  If a company is not able to collect its debts, Cash will decline at a rapid rate and could cause your company to go bankrupt.  Some of the tools used to collect receivables is the use of attornies, collection agencies, lien letters, lien enforcements.  A lien is when a company performs a job on a property that is not public and issues a mechanics lien against the property in order to collect its receivables.  This is very threatening but usually results in payment and sour relationship with the client.
   
@@ -88,12 +88,20 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
   
   ![PredictWeek53](https://user-images.githubusercontent.com/108476566/213354328-994a1a13-0b3f-49da-9b28-5d02d9d036bc.png)
 
-  $95,863 dollars is alot to miscalculate cash, so we looked at other models to see if there was a better correlation.  
+  $95,863 dollars is alot to miscalculate cash, so we looked at other models to see if there was a better correlation. 
+  
+   ## Linear Regression-Receivables
   
   We ran five machine learning algorithms to compare to the linear regression model to determine the best model to use.
   
 ![5 models](https://user-images.githubusercontent.com/108476566/213488988-ae523e9e-ed58-410e-bcd1-a7c9096088fd.png)
 ![Five models cont](https://user-images.githubusercontent.com/108476566/213489652-730e1db8-f90c-4ed6-a362-cb45dd85a4b5.png)
+
+We did a R2 comparison to see which model had the best R2 score.  Linear regression, Lasso, Ridge and SGD where the closest to 1.  In addition, we looked at the mean squared error for comparison.  Linear regression was closest to 1 for R2, it had the lowest mean squared error, and lowest root mean squared error.  We ran the model and below is the actual to predicted receivables.
+  
+![R2 comparison](https://user-images.githubusercontent.com/108476566/213492150-bec2d056-0ae4-4ada-8b8d-106f8a5a4dbc.png)
+![mean squared error](https://user-images.githubusercontent.com/108476566/213492567-60c94221-924f-48e7-ad90-fed689a1dd56.png)
+![Predicted Receivables](https://user-images.githubusercontent.com/108476566/213493707-0027c8ea-619d-4ecc-af47-521066b979c1.png)
 
   
   We looked at other machine models,  please see our work at Cash Estimate, Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.   We looked to a time series model called "Facebook Prophet".  See description below under Machine Model.

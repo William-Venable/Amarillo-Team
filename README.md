@@ -34,7 +34,7 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
  ## Dependent and Independent Variables
  Machine learning is based on the cross-analysis of dependent and independent variables.  The dependent variable (y) is the output we are wanting to predict and the independent variable(X) is an input that impacts the dependent variable(output).  The goal for the project was to find the independent variable(X) affect the dependent variable(y).
  
- To predict financial stability, we used supervised learning analyzes.  We looked at Cash and Receivables.  
+ To predict financial stability, we used supervised learning analyzes.  Our focus was on Cash and Receivables.  Cash is an important asset in the company as without substantial Cash it is very difficult to run a business.  The business needs cash to meet payroll demands, materials for current and future jobs, equipment repairs, supplier and operational expenses.  Without Cash, a company can quickly find themselves in large amounts of debt.  Construction companies are known to finance just about everything from payroll, to equipment, to the actual current job.  This is where a construction company can get into trouble.  Financing all your cash needs could make your company bankrupt very quickly.  Although, it is very possible to finance everything, it is not the way LB&Sons functions as a business.  LB&Sons follows the ideas of our grandparents, "If you dont have the money in hand as Cash, probably should not purchase".  Wether that is payroll or any other items.
  
  ##Linear Regression
  We started out with Linear Regression on both Cash and Receivables.  

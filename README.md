@@ -116,7 +116,7 @@ We did a R2 comparison to see which model had the best R2 score.  Linear regress
 * [Decision Tree for Regression.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/e817ee27dc31f6ca3e247a381255d286fbce7231/Resources1/Resources/ipynb/Decision%20Tree%20for%20Regression.ipynb)
 * [LB Cash Prophet.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/0c2a20e9f583adbc435f5e2ca552f18a9953e026/Resources1/Resources/ipynb/LB%20Cash%20Prophet.ipynb)
 * [LB Receivables Prophet.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/0c2a20e9f583adbc435f5e2ca552f18a9953e026/Resources1/Resources/ipynb/LB%20Receivables%20Prophet.ipynb)
-
+* [Time Series Forecasting.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/6ab0fbe081dd492e8f4ef88743f7148cfdb23586/Resources1/Resources/ipynb/Time%20Series%20Forecasting%20In%20Python.ipynb)
 
 ## Database
 Using the years of data, spanning from 2021-2022, within the CSV files (Cash Flow, Receivables, and Sales) provided by Jerry from LB & Sons, we implimented the files into Tableu. We created four main graphs/tables to depict the Forecasts and recievables of cash for LB & Sons.

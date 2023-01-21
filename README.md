@@ -108,7 +108,31 @@ We did a R2 comparison to see which model had the best R2 score.  Linear regress
 ![Predicted Receivables](https://user-images.githubusercontent.com/108476566/213493707-0027c8ea-619d-4ecc-af47-521066b979c1.png)
 
   
-  We looked at other machine models,  please see our work at Cash Estimate, Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.   Ultimately, we decided on a  time series model called "Facebook Prophet".  See description below under Machine Model.
+  
+   ## Time Series Forecasting 
+  
+In this modeling project, we determined it was important to have a baseline to compare the performance of more complex models.  We used a naive prediction to serve as a baseline.
+  
+Our first step was to load the dataset.
+  
+![Baseline Pandas](https://user-images.githubusercontent.com/108476566/213889934-ae7bcaa7-668c-45d7-8a6d-6c5aed68695e.png)
+  
+We split the dataset into train and train sets. 
+  
+![Split](https://user-images.githubusercontent.com/108476566/213889989-c13742c9-ef59-4bf1-a730-eadb6e042863.png)
+  
+We implemented the historical mean baseline using the numpy library. 
+  
+![historical mean](https://user-images.githubusercontent.com/108476566/213890047-d3352078-ffc2-4921-9a71-fabae32ce248.png)
+ 
+Next, we calculated an error metric in order to evaluate the performance of the forecasts on the test set.  Running the function gives a MAPE of 7%.  This means our baseline deviates by 7% on average from the observed data set.
+  
+![mean absolute percentage](https://user-images.githubusercontent.com/108476566/213890373-a4803af3-a1a3-4f43-831b-7ba83c0c6071.png)
+  
+![Visualize Forecast](https://user-images.githubusercontent.com/108476566/213890458-5bee5599-5aa3-4993-b777-e0ec013dbfbf.png)
+
+  
+We looked at other machine models,  please see our work at Cash Estimate, Cash Forecast Linear Regression, Cash Regression, Decision Tree Classification, Decision Tree for Regression, Linear Regression Beginners Guide and Linear Regression.   Ultimately, we decided on a  time series model called "Facebook Prophet".  See description below under Machine Model.
   
   
 * [Linear Regression Beginners Guide.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/8647947c069d2f8f686af907b8060808b34e75b8/Resources1/Resources/ipynb/Linear%20Regression%20Beginners%20Guide.ipynb)

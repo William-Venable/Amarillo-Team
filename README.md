@@ -23,6 +23,10 @@ Please click the link to learn more about **[LB & Sons](https://lbsons.com/)**
 * [LB_Forecast_Cash_1.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/868a1601c7760b9ab84af13c4cfac5e3cb98570e/Resources1/Resources/csv/LB_Forecast_Cash_1.csv)
 * [LB_Forecast_Rec_1.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/868a1601c7760b9ab84af13c4cfac5e3cb98570e/Resources1/Resources/csv/LB_Forecast_Rec_1.csv)
 * [LB_Sales.csv](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/868a1601c7760b9ab84af13c4cfac5e3cb98570e/Resources1/Resources/csv/LB_Sales.csv)
+  
+## Google Slides
+  
+- [Link to Presentation ]([url](https://docs.google.com/presentation/d/12877hyohQi5KKqA3wQwVStfloywcexorWbZkf9SNgG4/edit#slide=id.g1d8956e4783_0_133))
 
 ## Technologies Used
   To perform our analysis, we had to determine which machine learning tool we were going to use.  We referenced scikit learn (Choosing the right estimator), which pointed to regression as our best choice.  The dataset was less then 100,000 samples but more then 50 samples.  Based on the cheat sheet below we decided to start with regression and expand to other models to experiment.

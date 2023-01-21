@@ -146,6 +146,7 @@ We looked at other machine models,  please see our work at Cash Estimate, Cash F
 * [LB Receivables Prophet.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/0c2a20e9f583adbc435f5e2ca552f18a9953e026/Resources1/Resources/ipynb/LB%20Receivables%20Prophet.ipynb)
 * [Time Series Forecasting.ipynb](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/6ab0fbe081dd492e8f4ef88743f7148cfdb23586/Resources1/Resources/ipynb/Time%20Series%20Forecasting%20In%20Python.ipynb)
 * [Baseline](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/20cc380edc18939ad464d0452cf9342930aee4a7/Resources1/Resources/ipynb/Baseline.ipynb)
+* [Baseline Rec](https://github.com/William-Venable/Forecasting-Financial-Performance-of-Small-Buisnesses/blob/97611b154bd86a3e4bb7cb8e9cd44ede87086d0e/Resources1/Resources/ipynb/Baseline-Rec.ipynb)
 
 ## Database
 Using the years of data, spanning from 2021-2022, within the CSV files (Cash Flow, Receivables, and Sales) provided by Jerry from LB & Sons, we implimented the files into Tableu. We created four main graphs/tables to depict the Forecasts and recievables of cash for LB & Sons.
